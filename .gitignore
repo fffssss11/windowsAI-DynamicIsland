@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+*.spec
+# 个人设置和运行状态（新版本放在 %APPDATA%\WindowsAI-Island，这里防止旧位置的文件被提交）
+config.json
+hung_windows.json
+error.log
